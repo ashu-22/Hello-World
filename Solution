@@ -1,0 +1,7 @@
+public class Solution
+{
+public static void main(String[] args)
+{
+System.out.println("Hello I am back with lot's of Happiness");
+}
+}
